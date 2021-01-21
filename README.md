@@ -1,2 +1,4 @@
-# Mad-Club-Website
-The new and improved MAD Club website, built using bootstrap.
+# MAD Club Website
+## The new and improved MAD Club website, built using bootstrap.
+
+Coming soon!
