@@ -1,0 +1,7 @@
+nav img, nav h1{
+    display: inline-block;
+    margin: 10px;
+}
+nav img{
+    width: 250px;
+}
