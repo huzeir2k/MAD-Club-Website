@@ -1,3 +1,7 @@
+/* Overriding default .navbar-brand behaviour */
+.navbar-brand{
+    margin-right: 0;
+}
 nav img, nav h1{
     display: inline-block;
     margin: 10px;
