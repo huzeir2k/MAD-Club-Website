@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+nav .navbar-nav li a {
+  color: white !important;
+}
+#firstBox {
+  background-color: thistle;
+  width: 40%;
+  height: 10vh;
+  margin: auto;
+  border-radius: 50px;
+  text-align: center;
+}
+#secondBox {
+  background-color: teal;
+  width: 50%;
+  height: 20vh;
+  margin: auto;
+  border-radius: 35px;
+}
